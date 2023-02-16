@@ -22,7 +22,7 @@ import java.util.List;
 public class Component {
 
 	private String name;
-	//121322312312
+	
 	private List<Component> components = new ArrayList<>();
 
 	// mmm, there is no setter method for the 'components'
